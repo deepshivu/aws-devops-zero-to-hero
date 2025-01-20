@@ -2,6 +2,7 @@
 set -e
 
 
+
 # Pull the Docker image from Docker Hub
 docker pull shivu9785/simple-python-flask-app
 
